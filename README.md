@@ -1,5 +1,3 @@
-# Kiril Rangelov
-
 Final-year student at [TUES](https://elsys-bg.org) in Sofia, the strongest technical high school in Bulgaria. I build and maintain infrastructure: containers, Kubernetes clusters, GitOps pipelines, and the IaC that provisions them.
 
 Currently working on my diploma project at [ITGix](https://itgix.com), targeting SLSA Level 3 compliance for a secure software supply chain using Forgejo and Harbor on GKE. I also lead the DevOps club at TUES.
